@@ -1,4 +1,4 @@
-## 🧓👨‍🦳Remember Me👨‍🦰👩‍🦰
+<h2 align="center">🧓👨‍🦳Remember Me👨‍🦰👩‍🦰</h2>
 <p align="center"><img src="https://user-images.githubusercontent.com/83996346/229106792-4f8ef8ce-8eeb-431c-a26c-cd52c7953173.png" width="300" height="300"></p>
 
 **<p align="center">🧓Memory recall and quiz application for dementia prevention👨‍🦳</p>**
